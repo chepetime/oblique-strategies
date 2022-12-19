@@ -2,6 +2,8 @@
 
 Oblique Strategies, a creative tool created by Brian Eno and Peter Schmidt in 1975, is a deck of cards containing non-specific, open-ended instructions to help individuals break creative blocks and find new solutions to problems. These instructions are meant to be interpreted and used in a variety of ways, depending on the individual's needs. They can be used as part of brainstorming sessions to generate new ideas, or as a tool to help individuals think outside of the box. They can be applied to a variety of creative endeavors, from writing and music composition to painting and designing, as well as to problem-solving and decision-making.
 
+<br/>
+
 **Oblique Strategies**
 
 * Abandon normal instruments
